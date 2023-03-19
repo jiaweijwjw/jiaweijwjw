@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Jiawei
-- 👀 I’m interested in backend engineering
-- 🌱 I’m currently working on a quote generator project and an outfit selector project
-- 💞️ I also blog about my learnings about how the entire backend technology stack works together
+- 👋 Sawadee krub, I’m Jiawei.
+- 👀 I'm a software engineering with a focus in backend and AI/ML stuff.
+- 🌱 I blog about my learnings in my developing journey and also share/teach about it online.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/jiaweijwjw/ "jiawei's linkedin")
+- Check out my youtube channel:
+  - [YouTube](https://www.youtube.com/@codejeng "jiawei's youtube channel")
 
 <!---
 jiaweijwjw/jiaweijwjw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
