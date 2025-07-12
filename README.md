@@ -1,4 +1,4 @@
-- 👋 🇸🇬 Sawadeekub, I’m Jiawei.
+- 👋 🇸🇬 Hi, I’m Jiawei.
 - 💻 I'm a software engineer with a focus in backend stuff (APIs and system design).
 - 🌱 I blog about my learnings in my developing journey and also share/teach about it online.
 - 📚 During my free time I also like to learn more languages (currently learning Thai).
