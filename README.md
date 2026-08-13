@@ -1,15 +1,11 @@
-### Hey, I'm Ben
+### Hey, I'm Ben 👋🏻😊
 
-Founder and software engineer in Singapore. I build tools that help small businesses stop doing things manually.
+I build tools (CLI / Agent Skills) to automate workflows as I hate wasting time on manual repetitive tasks.
 
-**Now:** [Bitstaq](https://bitstaq.com) — helping SMEs automate operations by connecting their existing tools (Google Calendar, Xero, spreadsheets, WhatsApp).
+**If you hate manual tasks too:** I can build tools that 'Just works' for your business operations. Shipping end to end. Just hop on a call and give me your requirements.
 
-**Recently shipped:** A production photobooth kiosk platform for a retail client — Electron + Next.js + PostgreSQL + Supabase + AWS. Handles payments, photo printing, and runs unattended.
+**I share my custom resources and knowledge for free online:** [Youtube](https://www.youtube.com/@benlimjw)
 
-**Before that:** 2.5 years as a Backend Engineer (AI Automation) at DBS Bank, building internal tools for FX trading teams.
+Contact me via Whatsapp on my website [Bitstaq.com](https://bitstaq.com) or email me benlimjw@bitstaq.com 
 
-I like working close to customers, scoping problems myself, and shipping end-to-end. Most of my work lives in private repos.
-
-**Stack:** TypeScript, React/Next.js, Node.js, Python, FastAPI, PostgreSQL, Supabase, AWS, Electron, OpenAI/Claude APIs
-
-[bitstaq.com](https://bitstaq.com) · [LinkedIn](https://linkedin.com/in/benlimjw)
+Background: Software Engineer
