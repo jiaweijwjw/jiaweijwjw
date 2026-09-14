@@ -1,11 +1,11 @@
-### Hey, I'm Ben 👋🏻😊
+### Hey, I'm Ben 👋
 
-I build tools (CLI / Agent Skills) to automate workflows as I hate wasting time on manual repetitive tasks.
+I build tools and agents that automate the work I'd rather not do by hand, mostly CLI tools and Claude Code skills.
 
-**If you hate manual tasks too:** I can build tools that 'Just works' for your business operations. Shipping end to end. Just hop on a call and give me your requirements.
+**What I'm working on:** an agent that adds explainer motion graphics to finished long-form videos. It finds every moment you explain something and draws a graphic for it, back the next working day. See the before and after: [bitstaq.com/motion-graphics](https://www.bitstaq.com/motion-graphics)
 
-**I share my custom resources and knowledge for free online:** [Youtube](https://www.youtube.com/@benlimjw)
+**I share what I build on YouTube:** [@benlimjw](https://www.youtube.com/@benlimjw)
 
-Contact me via Whatsapp on my website [Bitstaq.com](https://bitstaq.com) or email me benlimjw@bitstaq.com 
+**Contact:** ben@bitstaq.com
 
-Background: Software Engineer
+Background: Computer Engineer.
