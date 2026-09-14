@@ -8,6 +8,4 @@ I build tools and agents that automate the work I'd rather not do by hand, mostl
 
 **I share what I build on YouTube:** [@benlimjw](https://www.youtube.com/@benlimjw)
 
-**Contact:** ben@bitstaq.com
-
-Background: Computer Engineer.
+**Want to see it on your own video?** Email a link of your video to ben@bitstaq.com and I'll send back a free sample.
